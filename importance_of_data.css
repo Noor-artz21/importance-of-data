@@ -1,0 +1,34 @@
+body {
+    background-image: url("https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/11/what-is-data-analytics-mads.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bruh-0 {
+    display: flex;
+    justify-content: center;
+    height: min-content;
+    font-size: 20px;
+    border-radius: 21px;
+    font-weight: bolder;
+}
+
+img {
+    width: 500px;
+    border-radius: 20px;
+}
+
+.bruh-2 {
+    font-weight: bolder;
+    backdrop-filter: blur(5px);
+    width: 600px;
+    display: flex;
+    text-align: right;
+    border-radius: 21px;
+    margin-left: 600px;
+}
+
+p {
+    padding: 21px;
+}
